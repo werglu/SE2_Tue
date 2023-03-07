@@ -1,9 +1,12 @@
 1. Alakbarzade Yusif
-2. Emmanuel Katwikirize
-3. Gluszczak Weronika
-4. Nevedomskii Nikolai
-5. Pokora Justyna
-6. Sajecki Maciej
-7. Sebastian Alejandro Espin Novillo
-8. Swistak Jakub
-9. Yusupov Yuldashbek
+2. Daniel Michalak
+3. Emmanuel Katwikirize
+4. Gluszczak Weronika
+5. Ibrahim Abu Alshayeb
+6. Nikolai Nevedomskii
+7. Pokora Justyna
+8. Purecha Dipankar
+9. Sajecki Maciej
+10. Sebastian Alejandro Espin Novillo
+11. Swistak Jakub
+12. Yusupov Yuldashbek
